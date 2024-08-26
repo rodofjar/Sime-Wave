@@ -8,6 +8,8 @@ To run the patch, you'll need to download VCV rack. You can get it here:
 
 The free version is what you're after.
 
+Your computer may try to block it, but don't worry it's safe :houses:
+
 Once installed, open the `Sime Wave v0.vcv` file from the application.
 
 I've included instructions within the patch on how to operate it.
